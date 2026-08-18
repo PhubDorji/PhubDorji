@@ -8,13 +8,10 @@
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0f2027?style=for-the-badge&logo=todoist&logoColor=e8d9b5" />
-</a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/phub-dorji-349a40320/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:phubrub61@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/BASED_IN-BHUTAN-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=e8d9b5" />
@@ -32,20 +29,100 @@
 
 ## &nbsp;🏔️&nbsp; About Me
 
-I'm an **IT Engineering student** building full-stack and AI-driven systems, based in **Bhutan** 🇧🇹. I learn technologies by shipping with them — not just reading docs.
+I'm an **IT Engineering student** building full-stack, AI-driven, and networked systems, based in **Bhutan** 🇧🇹. I learn technologies by shipping with them — not just reading docs.
 
-My work sits where **full-stack development**, **AI / ML**, and **systems design** meet.
+My work sits where **full-stack development**, **AI / ML**, **networking**, and **systems design** meet.
 
-- 🎓 Studying IT Engineering at *[Your College Name]*
-- 🛠️ Currently building: *[project name / focus area]*
-- 🌱 Currently learning: *[technology you're learning]*
-- 💬 Ask me about: *[your strong topics]*
-- 📫 Reach me: *your.email@example.com*
+- 🎓 Studying IT Engineering at **College of Science and Technology (CST)**
+- 🛠️ Currently building: full-stack apps with **React / Next.js**, backed by real infrastructure
+- 🌱 Currently exploring: **AI/LLM integration** and **IoT automation**
+- 💬 Ask me about: **web development, networking, and Linux systems**
+- 📫 Reach me: **phubrub61@gmail.com**
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=2&section=header" width="100%"/>
 
+## &nbsp;⚙️&nbsp; Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,py,js,dart,react,nextjs,html,css,tailwind,vite,nodejs,postgres,dotnet,git,github,docker,vercel,linux,bash,vim,flutter,androidstudio&theme=dark" />
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**💻 Languages**
+C · Python · JavaScript · Dart · SQL
+
+**🎨 Frontend**
+React · Next.js · HTML5 · CSS3 · Tailwind CSS · Vite
+
+**⚙️ Backend**
+Node.js · REST API · PostgreSQL · Prisma · ASP.NET / .NET
+
+**🐳 DevOps & Tools**
+Git · GitHub · Docker · Vercel · Linux · Ubuntu · Bash · Vim
+
+</td>
+<td valign="top" width="50%">
+
+**🌐 Networking**
+TCP/IP · DNS · DHCP · SSH · BIND9 · Apache · GNS3 · OSPF · BGP
+
+**🔐 Security**
+TLS/HTTPS · OpenSSL · GPG · Kerberos · Linux Security · Network Security
+
+**📱 Mobile & AI**
+Flutter · Dart · Android · AI APIs · LLM Integration · Speech Recognition · Text-to-Speech
+
+**📡 IoT**
+MQTT · LoRa · LoRaWAN · IoT Sensors · IoT Automation
+
+**📊 Data & ML**
+Pandas · Data Analytics · Data Mining · Scikit-learn · Machine Learning · Clustering · Apriori
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=2&section=header" width="100%"/>
+
+## &nbsp;📊&nbsp; GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PhubDorji&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7BB3FF&icon_color=e8d9b5" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhubDorji&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7BB3FF" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PhubDorji&theme=dark&hide_border=true&background=0D1117&ring=7BB3FF&fire=e8d9b5" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=2&section=header" width="100%"/>
+
+## &nbsp;🚀&nbsp; Featured Projects
+
+<div align="center">
+
+Check out all my work on the <a href="https://github.com/PhubDorji?tab=repositories"><strong>Repositories tab</strong></a> — pinned project cards can be added here once you let me know which repos to feature.
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" width="100%"/>
 ## &nbsp;⚙️&nbsp; Tech Stack
 
 <div align="center">
